@@ -12,3 +12,10 @@ developed
 developed
 
 developing...
+
+
+I did my job .
+I am doing my develop job..
+HTML CSS JS VUE ETC DOING...
+
+I finished my job!
